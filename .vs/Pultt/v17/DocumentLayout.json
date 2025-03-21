@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\repos\\Pultt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F883A2-B446-4C30-9910-39676439A05F}|CommonElementsProject\\CommonElementsProject.csproj|z:\\repos\\pultt\\commonelementsproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F883A2-B446-4C30-9910-39676439A05F}|CommonElementsProject\\CommonElementsProject.csproj|solutionrelative:commonelementsproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509F3134-FE4E-4D09-9117-7288ABFFD65C}|UserControlsProject\\UserControlsProject.csproj|z:\\repos\\pultt\\usercontrolsproject\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{509F3134-FE4E-4D09-9117-7288ABFFD65C}|UserControlsProject\\UserControlsProject.csproj|solutionrelative:usercontrolsproject\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509F3134-FE4E-4D09-9117-7288ABFFD65C}|UserControlsProject\\UserControlsProject.csproj|z:\\repos\\pultt\\usercontrolsproject\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509F3134-FE4E-4D09-9117-7288ABFFD65C}|UserControlsProject\\UserControlsProject.csproj|solutionrelative:usercontrolsproject\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D3FE5B-CE32-457C-84AE-EA7BDD08AC92}|ProtocolsProject\\ProtocolsProject.csproj|Z:\\repos\\Pultt\\protocolsproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D3FE5B-CE32-457C-84AE-EA7BDD08AC92}|ProtocolsProject\\ProtocolsProject.csproj|solutionrelative:protocolsproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6F65F-63BF-476E-A7B2-CDBF7E444200}|NLogProject\\NLogProject.csproj|Z:\\repos\\Pultt\\nlogproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D6F65F-63BF-476E-A7B2-CDBF7E444200}|NLogProject\\NLogProject.csproj|solutionrelative:nlogproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560D2FB2-7CE8-4082-9C8A-19E946A1AF2E}|Pultt\\Pultt.csproj|Z:\\repos\\Pultt\\pultt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{560D2FB2-7CE8-4082-9C8A-19E946A1AF2E}|Pultt\\Pultt.csproj|solutionrelative:pultt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560D2FB2-7CE8-4082-9C8A-19E946A1AF2E}|Pultt\\Pultt.csproj|Z:\\repos\\Pultt\\pultt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560D2FB2-7CE8-4082-9C8A-19E946A1AF2E}|Pultt\\Pultt.csproj|solutionrelative:pultt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\repos\\Pultt\\CommonElementsProject\\Class1.cs",
+              "RelativeDocumentMoniker": "CommonElementsProject\\Class1.cs",
+              "ToolTip": "Z:\\repos\\Pultt\\CommonElementsProject\\Class1.cs",
+              "RelativeToolTip": "CommonElementsProject\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:50:20.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "Z:\\repos\\Pultt\\UserControlsProject\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "UserControlsProject\\UserControl1.xaml",
+              "ToolTip": "Z:\\repos\\Pultt\\UserControlsProject\\UserControl1.xaml",
+              "RelativeToolTip": "UserControlsProject\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T03:49:12.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "Z:\\repos\\Pultt\\UserControlsProject\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "UserControlsProject\\UserControl1.xaml.cs",
+              "ToolTip": "Z:\\repos\\Pultt\\UserControlsProject\\UserControl1.xaml.cs",
+              "RelativeToolTip": "UserControlsProject\\UserControl1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:49:11.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\repos\\Pultt\\ProtocolsProject\\Class1.cs",
+              "RelativeDocumentMoniker": "ProtocolsProject\\Class1.cs",
+              "ToolTip": "Z:\\repos\\Pultt\\ProtocolsProject\\Class1.cs",
+              "RelativeToolTip": "ProtocolsProject\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:44:04.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\repos\\Pultt\\NLogProject\\Class1.cs",
+              "RelativeDocumentMoniker": "NLogProject\\Class1.cs",
+              "ToolTip": "Z:\\repos\\Pultt\\NLogProject\\Class1.cs",
+              "RelativeToolTip": "NLogProject\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:42:27.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "Z:\\repos\\Pultt\\Pultt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Pultt\\MainWindow.xaml",
+              "ToolTip": "Z:\\repos\\Pultt\\Pultt\\MainWindow.xaml",
+              "RelativeToolTip": "Pultt\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T03:39:22.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "Z:\\repos\\Pultt\\Pultt\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pultt\\MainWindow.xaml.cs",
+              "ToolTip": "Z:\\repos\\Pultt\\Pultt\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Pultt\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:39:22.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
